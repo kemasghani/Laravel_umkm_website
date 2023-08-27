@@ -1,0 +1,4 @@
+[22-May-2023 04:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/umkmmaro/public_html/app/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/umkmmaro/public_html/app/Http/Controllers/HomeController.php on line 8

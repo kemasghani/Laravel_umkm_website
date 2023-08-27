@@ -1,0 +1,27 @@
+th {
+    white-space: nowrap;
+}
+
+img {
+    /* display: block; */
+    max-width: 100%;
+}
+.preview {
+    text-align: center;
+    overflow: hidden;
+    width: 160px; 
+    height: 160px;
+    margin: 10px;
+    border: 1px solid red;
+}
+/* input{
+    margin-top:40px;
+} */
+/*.section{*/
+
+/*    background:#F6F9FF;*/
+
+/*}*/
+.modal-lg{
+    max-width: 1000px !important;
+}
